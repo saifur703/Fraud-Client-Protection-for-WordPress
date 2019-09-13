@@ -1,1 +1,1 @@
-# Fraud-Client-Protection-for-WordPress
+# Fraud Client Protection for WordPress
